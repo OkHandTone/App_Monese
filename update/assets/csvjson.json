@@ -1,0 +1,1074 @@
+[
+  {
+    "firstLetter": "T",
+    "word": "test",
+    "definition": "test.",
+    "example": "test.",
+    "type": "test",
+    "difficulty": 1
+  },
+  {
+    "firstLetter": "B",
+    "word": "bucolique",
+    "definition": "Qui évoque la vie champêtre, les plaisirs simples de la campagne.",
+    "example": "Le décor bucolique de ce hameau semblait hors du temps.",
+    "type": "adjectif",
+    "difficulty": 2
+  },
+  {
+    "firstLetter": "M",
+    "word": "matutinal",
+    "definition": "Relatif au matin, qui a lieu le matin.",
+    "example": "Son jogging matutinal le mettait en forme pour la journée.",
+    "type": "adjectif",
+    "difficulty": 2
+  },
+  {
+    "firstLetter": "V",
+    "word": "vagir",
+    "definition": "Pousser un cri ou un gémissement, en parlant d’un bébé.",
+    "example": "Le nouveau-né se mit à vagir dès son arrivée au monde.",
+    "type": "verbe",
+    "difficulty": 2
+  },
+  {
+    "firstLetter": "A",
+    "word": "atonie",
+    "definition": "Manque d’énergie, d’activité ou de vigueur, aussi bien physique que morale.",
+    "example": "L’atonie de la pièce rendait la représentation ennuyeuse malgré les efforts des acteurs.",
+    "type": "nom féminin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "C",
+    "word": "capiteux",
+    "definition": "Qui monte à la tête, en parlant d’un parfum ou d’un vin ; enivrant.",
+    "example": "Le parfum capiteux de la rose embaumait la pièce entière.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "C",
+    "word": "caviarder",
+    "definition": "Cacher ou supprimer volontairement une partie d’un texte.",
+    "example": "Le rapport avait été caviardé avant publication pour éviter toute polémique.",
+    "type": "verbe",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "C",
+    "word": "croquignolet",
+    "definition": "Mignon, charmant d’une manière un peu ridicule ou précieuse.",
+    "example": "Ce petit bonnet à pompon était croquignolet sur sa tête.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "D",
+    "word": "déférent",
+    "definition": "Qui manifeste du respect ou de la considération envers autrui.",
+    "example": "Il était toujours déférent envers ses professeurs.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "E",
+    "word": "euphonique",
+    "definition": "Qui a une sonorité agréable à l'oreille.",
+    "example": "Ce word est utilisé pour sa qualité euphonique plutôt que pour son sens.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "F",
+    "word": "faribole",
+    "definition": "Propos ou idée sans valeur, frivole.",
+    "example": "Cesse donc de me parler de ces fariboles !",
+    "type": "nom féminin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "F",
+    "word": "flapi",
+    "definition": "Épuisé, exténué.",
+    "example": "Après sa journée de marche, il était complètement flapi.",
+    "type": "adjectif familier",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "F",
+    "word": "foucade",
+    "definition": "Caprice, impulsion soudaine et souvent passagère.",
+    "example": "Dans une foucade, il décida de partir à l'autre bout du monde.",
+    "type": "nom féminin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "F",
+    "word": "fourbir",
+    "definition": "Nettoyer, faire briller avec soin (souvent des armes ou outils).",
+    "example": "Le soldat passait des heures à fourbir son sabre.",
+    "type": "verbe",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "F",
+    "word": "foutraque",
+    "definition": "Désordonné, un peu fou, extravagant.",
+    "example": "Ce film foutraque mélangeait science-fiction et comédie romantique.",
+    "type": "adjectif familier",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "F",
+    "word": "frondaison",
+    "definition": "Ensemble des branches et feuilles d’un arbre.",
+    "example": "La frondaison épaisse abritait le promeneur du soleil.",
+    "type": "nom féminin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "G",
+    "word": "gourmander",
+    "definition": "Réprimander quelqu’un avec une certaine douceur, souvent un enfant.",
+    "example": "Elle le gourmandait gentiment pour avoir mangé les bonbons en cachette.",
+    "type": "verbe",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "G",
+    "word": "gredin",
+    "definition": "Individu malhonnête, méprisable.",
+    "example": "Ce gredin l’avait volée en plein jour sans le moindre scrupule.",
+    "type": "nom masculin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "I",
+    "word": "indolence",
+    "definition": "Disposition à éviter l’effort, mollesse.",
+    "example": "Son indolence l’empêchait de terminer le moindre projet.",
+    "type": "nom féminin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "I",
+    "word": "ineffable",
+    "definition": "Qui ne peut être exprimé par des words en raison de son intensité ou de sa nature.",
+    "example": "Elle ressentit une joie ineffable en revoyant son enfant.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "M",
+    "word": "malingre",
+    "definition": "De constitution faible, souvent malade.",
+    "example": "Ce garçon malingre n’arrivait pas à suivre les autres en sport.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "M",
+    "word": "mordoré",
+    "definition": "D’une couleur brun doré, cuivrée aux reflets chauds.",
+    "example": "Le plumage mordoré de l’oiseau brillait au soleil couchant.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "N",
+    "word": "navrementn",
+    "definition": "Grande tristesse, douleur morale profonde.",
+    "example": "Elle exprima son navrement à l’annonce de la nouvelle.",
+    "type": "nom masculin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "N",
+    "word": "nyctalope",
+    "definition": "Personne ayant une bonne vision nocturne.",
+    "example": "Grâce à sa vision nyctalope, il se déplaçait aisément dans l’obscurité.",
+    "type": "nom / adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "P",
+    "word": "prolixe",
+    "definition": "Qui est trop long, qui s’étend en détails excessifs.",
+    "example": "Son discours prolixe épuisait l’auditoire avant même le second point.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "R",
+    "word": "raout",
+    "definition": "Grande fête, réception somptueuse souvent mondaine.",
+    "example": "La haute société se pressait au raout annuel du palais.",
+    "type": "nom masculin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "S",
+    "word": "soliloquer",
+    "definition": "Parler tout seul, exprimer ses pensées à voix haute sans interlocuteur.",
+    "example": "Il se surprit à soliloquer dans le jardin, captivé par ses réflexions.",
+    "type": "verbe",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "T",
+    "word": "tancer",
+    "definition": "Réprimander, admonester vivement.",
+    "example": "Le professeur le tanca pour son manque de respect.",
+    "type": "verbe",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "V",
+    "word": "vespéral",
+    "definition": "Qui se rapporte au soir, relatif à la soirée.",
+    "example": "La brume vespérale enveloppait le lac lors du coucher du soleil.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "V",
+    "word": "veule",
+    "definition": "Qui manque de force, de courage, lâche, sans énergie.",
+    "example": "Il restait veule face aux défis, préférant rester dans l’ombre.",
+    "type": "adjectif",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "V",
+    "word": "viveur",
+    "definition": "Personne qui aime la bonne chère, les plaisirs de la vie.",
+    "example": "Ce viveur connaissait tous les meilleurs restaurants de Paris.",
+    "type": "nom masculin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "V",
+    "word": "vétille",
+    "definition": "Chose insignifiante, détail sans importance.",
+    "example": "Il se querellait pour des vétilles, ignorant l’essentiel.",
+    "type": "nom féminin",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "Z",
+    "word": "zinzinuler",
+    "definition": "Chanter comme un oiseau, gazouiller (familier, son d’insecte).",
+    "example": "Au petit matin, les oiseaux zinzinulaient dans le jardin.",
+    "type": "verbe",
+    "difficulty": 3
+  },
+  {
+    "firstLetter": "A",
+    "word": "assuétude",
+    "definition": "Habitude considérée comme une dépendance, notamment à une drogue ou une activité répétée.",
+    "example": "Son assuétude à la caféine l’empêchait de commencer une journée sans boire au moins deux expressos.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "B",
+    "word": "brimborion",
+    "definition": "Objet de peu de valeur, babiole, bagatelle.",
+    "example": "Elle avait ramené quelques brimborions du marché, sans utilité réelle.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "C",
+    "word": "chafouin",
+    "definition": "Qui est sournois, rusé et hypocrite.",
+    "example": "Son sourire chafouin trahissait une intention peu honnête.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "C",
+    "word": "componction",
+    "definition": "Gravité recueillie, souvent affectée, dans le comportement ou le ton.",
+    "example": "Il parla avec componction du malheur qui l’avait frappé.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "E",
+    "word": "embabouiner",
+    "definition": "Abuser de quelqu’un par des flatteries ou des cajoleries.",
+    "example": "Il l’avait embabouinée avec ses words doux pour obtenir ce qu’il voulait.",
+    "type": "verbe familier",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "E",
+    "word": "embrouillamini",
+    "definition": "Situation confuse, désordre inextricable.",
+    "example": "L’embrouillamini des dossiers rendait toute prise de décision impossible.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "F",
+    "word": "factotum",
+    "definition": "Personne à tout faire, souvent dans une maison ou une organisation.",
+    "example": "Il était le factotum du bureau, toujours prêt à rendre service.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "F",
+    "word": "friselis",
+    "definition": "Léger frémissement, petit bruit doux (vent, eau, feuilles...).",
+    "example": "Un friselis parcourait la surface du lac sous la brise du soir.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "G",
+    "word": "gaudriole",
+    "definition": "Plaisanterie un peu osée ou grivoise.",
+    "example": "Ses histoires de gaudriole ne faisaient rire que lui.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "I",
+    "word": "inanité",
+    "definition": "Caractère de ce qui est vide de sens, inutile.",
+    "example": "Il méditait sur l’inanité des discours politiques.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "L",
+    "word": "lanterner",
+    "definition": "Perdre son temps à des riens, traîner.",
+    "example": "Il ne fit rien de sa journée, lanterna jusqu’au soir.",
+    "type": "verbe",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "M",
+    "word": "margoulin",
+    "definition": "Commerçant malhonnête ou peu scrupuleux.",
+    "example": "Ce margoulin vendait des produits contrefaits sur les marchés.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "M",
+    "word": "marri",
+    "definition": "Peiné, affligé (souvent utilisé dans les textes anciens).",
+    "example": "Il était fort marri d’avoir parlé si durement.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "M",
+    "word": "morigéner",
+    "definition": "Réprimander quelqu’un en lui donnant une leçon de morale.",
+    "example": "Il morigéna sévèrement l’élève pour son insolence.",
+    "type": "verbe",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "M",
+    "word": "méphistophélique",
+    "definition": "Qui évoque le diable, sournois et machiavélique.",
+    "example": "Son sourire méphistophélique inquiétait même ses proches.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "N",
+    "word": "naupathie",
+    "definition": "Mal de mer.",
+    "example": "Il redoutait les croisières à cause de sa naupathie.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "N",
+    "word": "neurasthénie",
+    "definition": "État de fatigue psychique accompagné d’anxiété et d’irritabilité.",
+    "example": "La neurasthénie le rendait incapable de se concentrer.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "O",
+    "word": "oblatif",
+    "definition": "Qui tend à se dévouer totalement aux autres.",
+    "example": "Son comportement oblatif le poussait à toujours s’oublier au profit des autres.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "O",
+    "word": "outrecuidance",
+    "definition": "Confiance excessive en soi-même, arrogance.",
+    "example": "Son outrecuidance le rendait insupportable en réunion.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "P",
+    "word": "pandiculer",
+    "definition": "S'étirer en bâillant au réveil ou en signe de fatigue.",
+    "example": "Il se leva en pandiculant longuement avant de rejoindre la cuisine.",
+    "type": "verbe",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "P",
+    "word": "piétaille",
+    "definition": "Troupe de fantassins, gens du commun (péjoratif).",
+    "example": "Le seigneur ne prenait jamais la piétaille en compte dans ses décisions.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "P",
+    "word": "primesautier",
+    "definition": "Spontané, qui agit par impulsion naturelle.",
+    "example": "Son caractère primesautier le poussait souvent à changer d’avis sans prévenir.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "P",
+    "word": "pétaudière",
+    "definition": "Endroit chaotique et mal organisé, grand désordre.",
+    "example": "Son bureau était une véritable pétaudière où rien n’était classé.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "R",
+    "word": "rebuffade",
+    "definition": "Refus brusque et humiliant, rejet net.",
+    "example": "Il essuya une rebuffade lorsqu’il proposa son projet au directeur.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "R",
+    "word": "replet",
+    "definition": "Qui est bien en chair, corpulent et correctellement nourri.",
+    "example": "Ce cheval replet semblait sûr de lui, prêt pour la course.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "R",
+    "word": "rodomont",
+    "definition": "Homme vantard, fanfaron, qui se vante de qualités imaginaires.",
+    "example": "Ce rodomont racontait qu’il avait affronté des dragons à mains nues.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "R",
+    "word": "rodomontade",
+    "definition": "Discours vaniteux et fanfaron, vantardise.",
+    "example": "Ses rodomontades lors de la réunion agaçaient ses collègues.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "S",
+    "word": "spécieux",
+    "definition": "Qui paraît vrai, mais qui est en réalité trompeur ou fallacieux.",
+    "example": "Sa justification spécieuse convainquait les moins méfiants.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "S",
+    "word": "sycophante",
+    "definition": "Personne qui flatte servilement pour obtenir des faveurs ou calomnie pour dénoncer.",
+    "example": "Il agissait en sycophante, louant chaque idée du directeur.",
+    "type": "nom masculin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "T",
+    "word": "toquade",
+    "definition": "Caprice, lubie passagère et souvent extravagante.",
+    "example": "Il eut la toquade de porter uniquement des chapeaux de paille.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "T",
+    "word": "torve",
+    "definition": "Qui a une physionomie menaçante ou malfaisante.",
+    "example": "Son regard torve fit frissonner tous les convives.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "V",
+    "word": "valétudinaire",
+    "definition": "De santé faible, souvent maladif, qui souffre de divers maux.",
+    "example": "Le vieil homme valétudinaire ne quittait jamais son fauteuil sans aide.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "V",
+    "word": "véléité",
+    "definition": "Volonté faible, inclination passagère sans passage à l’acte.",
+    "example": "Il ressentit une véléité de changer de vie mais resta finalement inerte.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "V",
+    "word": "vulnéraire",
+    "definition": "Qui guérit les plaies, lié à la cicatrisation.",
+    "example": "On utilisait cette plante vulnéraire pour soigner les coupures.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "V",
+    "word": "véniel",
+    "definition": "Pardonable, léger (sens moral ; péché véniel : moindre gravité).",
+    "example": "Ce petit mensonge fut jugé véniel par le confesseur.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "V",
+    "word": "vérécondieux",
+    "definition": "Plein de révérence, empreint de retenue et de pudeur.",
+    "example": "Son sourire vérécondieux cachait une timidité profonde.",
+    "type": "adjectif",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "V",
+    "word": "vésanie",
+    "definition": "Démence, folie passagère ou profonde.",
+    "example": "Pendant un instant de vésanie, il se mit à hurler sans raison.",
+    "type": "nom féminin",
+    "difficulty": 4
+  },
+  {
+    "firstLetter": "A",
+    "word": "ataraxie",
+    "definition": "État de tranquillité parfaite de l’âme, idéal du sage selon les philosophes stoïciens ou épicuriens.",
+    "example": "Il atteignit une forme d’ataraxie après des années de méditation quotidienne.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "A",
+    "word": "autolâtrie",
+    "definition": "Culte excessif de soi-même, forme extrême de narcissisme.",
+    "example": "Son autolâtrie atteignait un tel point qu’il s’était fait tatouer son propre visage.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "B",
+    "word": "bibliotaphe",
+    "definition": "Personne qui cache ses livres et ne les prête jamais.",
+    "example": "Bibliotaphe compulsif, il gardait ses livres sous clé, même ceux déjà lus.",
+    "type": "nom",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "B",
+    "word": "bénéolent",
+    "definition": "Qui a une disposition bienveillante, empreinte de bonté.",
+    "example": "Son regard bénéolent apaisait les tensions d’un simple sourire.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "C",
+    "word": "cascatelle",
+    "definition": "Petite cascade, souvent artificielle, dans un jardin ou un parc.",
+    "example": "Une cascatelle dévalait doucement entre les pierres moussues du jardin.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "C",
+    "word": "cheffer",
+    "definition": "Exercer une fonction de chef, diriger.",
+    "example": "Il passait ses journées à cheffer sans vraiment décider quoi que ce soit.",
+    "type": "verbe familier",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "C",
+    "word": "chevir",
+    "definition": "Venir à bout d’une tâche, réussir à faire quelque chose.",
+    "example": "Il parvint à chevir à ses obligations malgré l’adversité.",
+    "type": "verbe",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "C",
+    "word": "concupiscence",
+    "definition": "Désir sexuel intense ou, par extension, appétit charnel considéré comme un péché.",
+    "example": "Les sermons condamnaient la concupiscence comme source de damnation.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "C",
+    "word": "contadin",
+    "definition": "Relatif aux paysans ou à la vie rurale (vieux word, rare).",
+    "example": "Son parler contadin révélait ses origines villageoises.",
+    "type": "adjectif / nom",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "C",
+    "word": "controuvé",
+    "definition": "Inventé de toutes pièces, faux, fabriqué de manière mensongère.",
+    "example": "Le récit controuvé visait à disculper le coupable.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "D",
+    "word": "disquisition",
+    "definition": "Développement discursif, souvent long et pédant, sur un sujet.",
+    "example": "Il nous gratifia d’une disquisition interminable sur la ponctuation grecque.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "D",
+    "word": "dolosif",
+    "definition": "Qui implique la ruse, la tromperie ou le dol.",
+    "example": "Son comportement dolosif visait à manipuler le contrat.",
+    "type": "adjectif juridique",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "D",
+    "word": "duire",
+    "definition": "Conduire, guider (ancien français).",
+    "example": "Il savait bien duire son peuple en des temps troublés.",
+    "type": "verbe",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "D",
+    "word": "dulçaquicole",
+    "definition": "Qui vit en eau douce et en eau saumâtre.",
+    "example": "Le crabe dulçaquicole s'adapte à différents milieux aquatiques.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "D",
+    "word": "dyscole",
+    "definition": "Difficile à vivre, grincheux, d'humeur difficile.",
+    "example": "Ce vieil homme dyscole se plaignait sans arrêt du monde moderne.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "D",
+    "word": "déréliction",
+    "definition": "Solitude morale, sentiment d’abandon total.",
+    "example": "Elle ressentit une profonde déréliction après la trahison de ses amis.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "É",
+    "word": "ébaudir",
+    "definition": "Mettre en joie, réjouir (souvent à la forme pronominale).",
+    "example": "Elle s’ébaudissait des jeux d’enfants dans le jardin.",
+    "type": "verbe",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "É",
+    "word": "églogue",
+    "definition": "Petit poème pastoral souvent dialogué.",
+    "example": "Il lut une églogue bucolique évoquant les bergers antiques.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "É",
+    "word": "égrotant",
+    "definition": "Souvent malade, maladif.",
+    "example": "Ce personnage égrotant était toujours alité dans le roman.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "É",
+    "word": "équinanimité",
+    "definition": "Égalité d'âme, sérénité face aux événements.",
+    "example": "Il accueillait les critiques et les louanges avec la même équanimité.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "É",
+    "word": "évhémérisme",
+    "definition": "Doctrine selon laquelle les dieux sont des humains divinisés.",
+    "example": "L’évhémérisme interprète les mythes comme des faits historiques déformés.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "F",
+    "word": "frairie",
+    "definition": "Fête de village traditionnelle, souvent religieuse.",
+    "example": "Chaque été, le village organisait sa frairie en l’honneur du saint patron.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "F",
+    "word": "férir",
+    "definition": "Frapper (utilisé dans l'expression 'sans coup férir').",
+    "example": "Le château fut pris sans coup férir.",
+    "type": "verbe (désuet)",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "G",
+    "word": "garrulité",
+    "definition": "Bavardage excessif, tendance à parler beaucoup.",
+    "example": "Sa garrulité rendait les réunions interminables.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "G",
+    "word": "gogaille",
+    "definition": "Fête où l’on mange et boit avec excès.",
+    "example": "Ils se retrouvèrent pour une gogaille bien arrosée entre amis.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "G",
+    "word": "grylle",
+    "definition": "Figure grotesque ou caricaturale dans l'art médiéval.",
+    "example": "Les marges du manuscrit étaient peuplées de grylles amusants.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "G",
+    "word": "gyrovague",
+    "definition": "Moine errant sans monastère fixe, souvent jugé instable.",
+    "example": "Le gyrovague allait de cloître en cloître, sans jamais s'établir.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "H",
+    "word": "harpigner",
+    "definition": "Saisir avec insistance, tirer à soi ; ou harceler (ancien).",
+    "example": "Il harpignait le manteau du passant pour attirer son attention.",
+    "type": "verbe",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "H",
+    "word": "hypégiaphobie",
+    "definition": "Peur panique de la responsabilité.",
+    "example": "Son hypégiaphobie l’empêchait d’accepter toute prowordion.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "H",
+    "word": "hémérothèque",
+    "definition": "Collection ou service d’archives de journaux.",
+    "example": "Il consulta la hémérothèque municipale pour ses recherches historiques.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "I",
+    "word": "impéritie",
+    "definition": "Incapacité, incompétence dans une fonction.",
+    "example": "L’impéritie de ce ministre fut révélée par la crise.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "L",
+    "word": "lénifier",
+    "definition": "Adoucir, calmer une douleur ou une tension.",
+    "example": "Ses paroles ne firent que lénifier une peine qu’il ne pouvait effacer.",
+    "type": "verbe",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "L",
+    "word": "léthifère",
+    "definition": "Qui cause la mort, mortel.",
+    "example": "Le poison léthifère fit effet en quelques secondes.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "M",
+    "word": "marmiteux",
+    "definition": "Misérable, vêtu de guenilles, souvent vieillard ou mendiant.",
+    "example": "Un vieux marmiteux mendiait à l’angle de la rue.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "M",
+    "word": "mirliflore",
+    "definition": "Jeune homme prétentieux et élégant de façon excessive.",
+    "example": "Ce mirliflore paradait en ville avec son monocle.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "M",
+    "word": "misonéisme",
+    "definition": "Hostilité ou rejet du changement, des innovations.",
+    "example": "Son misonéisme freinait toute tentative de réforme.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "M",
+    "word": "morganatique",
+    "definition": "Se dit d’un mariage contracté entre personnes de rang social inégal, sans droit de succession.",
+    "example": "Le prince épousa une roturière selon les règles d’une union morganatique.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "M",
+    "word": "musser",
+    "definition": "Cacher, dissimuler.",
+    "example": "Il musse son trésor dans une cachette secrète.",
+    "type": "verbe",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "N",
+    "word": "nervin",
+    "definition": "Substance qui agit sur les nerfs, calmante ou tonique.",
+    "example": "Ce remède nervin était recommandé contre l’anxiété.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "N",
+    "word": "nitide",
+    "definition": "Brillant, éclatant, net (rare, littéraire).",
+    "example": "Le miroir nitide reflétait son image sans défaut.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "N",
+    "word": "noétique",
+    "definition": "Relatif à l’intellect, à la pensée pure.",
+    "example": "Les sciences noétiques s'intéressent aux processus mentaux les plus abstraits.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "N",
+    "word": "nycthémère",
+    "definition": "Période de 24 heures comprenant un jour et une nuit.",
+    "example": "Ce traitement doit être administré une fois par nycthémère.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "O",
+    "word": "oaristys",
+    "definition": "Entretien amoureux tendre et poétique (word ancien et littéraire).",
+    "example": "Ils vécurent une oaristys sous les étoiles, à l’écart du monde.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "O",
+    "word": "orbicole",
+    "definition": "Qui vit sur la surface du globe terrestre.",
+    "example": "L'espèce orbicole s'adapte à tous les milieux terrestres.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "P",
+    "word": "palinodie",
+    "definition": "Changement complet d'opinion, souvent accompagné d'une rétractation.",
+    "example": "Sa palinodie étonna tous ceux qui l’avaient entendu la veille.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "P",
+    "word": "pendrillon",
+    "definition": "Partie pendante d’une chaussure ou garniture de vêtement tombant en pans.",
+    "example": "Les pendrillons de sa cape flottaient derrière lui.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "P",
+    "word": "prodigalité",
+    "definition": "Générosité excessive, tendance à dépenser sans compter.",
+    "example": "Sa prodigalité le conduisit à la ruine en quelques années.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "P",
+    "word": "prolégomènes",
+    "definition": "Introduction générale à un récit ou un traité, exposé préliminaire.",
+    "example": "Les prolégomènes de son ouvrage expliquaient la méthodologie employée.",
+    "type": "nom masculin pluriel",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "P",
+    "word": "psittacisme",
+    "definition": "Répétition mécanique de words sans en comprendre le sens.",
+    "example": "Son discours sonnait comme du psittacisme, dépourvu de réflexion personnelle.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "P",
+    "word": "péronnelle",
+    "definition": "Femme frivole et sotte, obsédée par les apparences.",
+    "example": "Cette péronnelle passait son temps devant le miroir à ajuster son chapeau.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "Q",
+    "word": "quinaud",
+    "definition": "Personne ridicule ou nulle, simple d’esprit.",
+    "example": "Il se comportait comme un quinaud lors de la réunion, perdant son sang-froid.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "S",
+    "word": "salvifique",
+    "definition": "Qui procure le salut, qui délivre du mal.",
+    "example": "Sa parole salvifique apportait espoir aux croyants endoloris.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "S",
+    "word": "soliveau",
+    "definition": "Palissade faite avec des planches ou des madriers (rare).",
+    "example": "Le vieux soliveau protégeait le potager des animaux errants.",
+    "type": "nom masculin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "S",
+    "word": "stipendié",
+    "definition": "Qui reçoit un salaire ou un traitement d’argent du pouvoir (péjoratif).",
+    "example": "Un journaliste stipendié ne peut pas prétendre à l’impartialité.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "S",
+    "word": "syzygie",
+    "definition": "Alignement de trois corps célestes; situation d’une conjonction ou d’une opposition.",
+    "example": "La syzygie de la Terre, de la Lune et du Soleil crée une éclipse totale.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "S",
+    "word": "sémiliant",
+    "definition": "Qui semble autrement qu’il n’est, qui feint.",
+    "example": "Son visage sémiliant masquait un réel désespoir.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "T",
+    "word": "thébaïde",
+    "definition": "Lieu retiré, désert; solitude paisible (référence à la région de Thèbes).",
+    "example": "Il trouva près de la rivière une thébaïde où méditer en paix.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "T",
+    "word": "turpide",
+    "definition": "Qui est d’une laideur morale, repoussante, honteuse.",
+    "example": "Son comportement turpide lui valut d’être ostracisé.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "T",
+    "word": "turpitude",
+    "definition": "Laideur morale profonde, abjection.",
+    "example": "La turpitude de ses actes choquait la communauté.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "V",
+    "word": "veglione",
+    "definition": "Grande fête ou soirée dansante, surtout en Italie (word italien emprunté).",
+    "example": "Ils assistèrent à une veglione dans la villa surplombant Venise.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "V",
+    "word": "vitupération",
+    "definition": "Critique violente, invective, reproche acerbe.",
+    "example": "Les vitupérations pleuvaient sur le gouvernement lors du discours.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "V",
+    "word": "vultueux",
+    "definition": "Qui exprime la culpabilité, empreint d’accusation ou de reproche (rare).",
+    "example": "Son regard vultueux trahissait une rancune ancienne.",
+    "type": "adjectif",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "V",
+    "word": "vénusté",
+    "definition": "Beauté, charme remarquable (rare, littéraire).",
+    "example": "La vénusté de ce visage avait frappé tous les peintres de'poque.",
+    "type": "nom féminin",
+    "difficulty": 5
+  },
+  {
+    "firstLetter": "Z",
+    "word": "zinzolin",
+    "definition": "Couleur rouge violacé, tirant sur le mauve (rare, vieilli).",
+    "example": "Le ciel prenait une teinte zinzolin juste avant l’aube.",
+    "type": "nom masculin",
+    "difficulty": 5
+  }
+]
